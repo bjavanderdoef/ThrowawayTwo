@@ -10,3 +10,9 @@ I hope to learn the following
 - How to make commits to a repo
 
 Let's give it a go :) Also, try out [Introduction to GitHub] (https://github.io/on-demand) to learn more.
+
+Tracking *.dll.refresh Files
+- Open a Gitshell
+- Navigate to the website's bin folder using 'cd'
+Type the following git add -f *.dll.refresh and press *Enter*
+Type the following git commit -m "Force-add .dll.refresh files" and press *Enter*
